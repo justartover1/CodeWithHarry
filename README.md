@@ -1,3 +1,3 @@
 ## CodeWithHarry
  A Complete and Great Responsive Website Tutorial By CodeWithHarry.
- also aviable on youtube channel codewithharry
+ Also available on the youtube channel [codewithharry](https://www.youtube.com/c/CodeWithHarry).
